@@ -1,0 +1,18 @@
+name: mysqoop
+channels:
+    - pytorch
+    - defaults
+dependencies:
+    - python=3.6
+    - pytorch=0.4.1
+    - torchvision
+    - pyqt
+    - numpy=1.16.2
+    - h5py
+    - Pillow
+    - seaborn=0.9.0
+    - matplotlib
+    - blosc
+    - pip:
+        - gym
+

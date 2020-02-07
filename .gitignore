@@ -1,0 +1,13 @@
+data_*
+data
+tryouts
+__pycache__
+saved_models
+saved_stats
+saved
+saved2
+trial.py
+sqoop/feature_save_valid_test.py
+sqoop/feature_saving.py
+save_all_features.py
+figures
